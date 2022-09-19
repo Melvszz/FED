@@ -7,8 +7,8 @@ ul {
   list-style: none;
 }
 
-h1, h2, h3, p {
-  font-family: 'Karla', sans-serif, Georgia, serif;
+h1, h2, h3, p, nav, ul, li {
+  font-family: 'Karla', sans-serif;
 }
 
 nav {

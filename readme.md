@@ -7,7 +7,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. https://www.youtube.com/watch?v=mFgltjfVV6A -- 13: How to Create a Menu in HTML | Learn HTML and CSS | HTML Tutorial | CSS Tutorial
-2. -bron 2-
+2. https://stackoverflow.com/questions/3239202/whats-the-correct-way-to-hide-the-h1-tag-and-not-be-banned-from-google
 3. -...-
 
 
@@ -63,6 +63,12 @@ GitHub aan de werk krijgen. Is inmiddels wel gelukt voor voortgangsgesprek 1.
 ## Breakdownschets (week 1)
 
 -uitwerken voor de 1e werkgroep - eind van de eerste week-
+<img src="images/b1.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/b2.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/b3.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/b4.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/b5.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/b6.png" width="375px" alt="omschrijving van de pagina">
 
 
 
@@ -75,7 +81,7 @@ GitHub aan de werk krijgen. Is inmiddels wel gelukt voor voortgangsgesprek 1.
 
 **Je opdracht:** https://www.carhartt-wip.com/
 
-**Screenshot(s) van de eerste pagina (small screen):** https://s3.us-west-2.amazonaws.com/secure.notion-static.com/70aaa92e-8f2f-4fed-9a34-f13b356284f9/fedpage1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201130%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201130T161741Z&X-Amz-Expires=86400&X-Amz-Signature=d2aef957f149acbeeee2a14a64bc9ef7d9dbec4d36d0ef784797830b47f5f29a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22fedpage1.png%22
+**Screenshot(s) van de eerste pagina (small screen):** 
 
 <img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
 
