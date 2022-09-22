@@ -1,90 +1,294 @@
 # Procesverslag
-**Auteur:** Melvin Rooth
+Markdown is een simpele manier om HTML te schrijven.  
+Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
+Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
-
-
-## Bronnenlijst
-1. https://www.youtube.com/watch?v=mFgltjfVV6A -- 13: How to Create a Menu in HTML | Learn HTML and CSS | HTML Tutorial | CSS Tutorial
-2. https://stackoverflow.com/questions/3239202/whats-the-correct-way-to-hide-the-h1-tag-and-not-be-banned-from-google
-3. -...-
+Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
 
 
 
-## Eindgesprek (week 7/8)
-
--dit ging goed & dit was lastig-
-
-**Screenshot(s):**
-
--screenshot(s) van je eindresultaat-
 
 
+## Jij
 
-## Voortgang 3 (week 6)
+<details open>
+  <summary>uitwerken voor kick-off werkgroep</summary>
 
--same as voortgang 1-
+  ### Auteur:
+  Melvin Rooth
 
-
-
-## Voortgang 2 (week 5)
-
--same as voortgang 1-
+  #### Je startniveau:
+  Blauw
+  #### Je focus:
+  Responsive
+</details>
 
 
 
-## Voortgang 1 (week 3)
 
-### Stand van zaken
 
-GitHub aan de werk krijgen. Is inmiddels wel gelukt voor voortgangsgesprek 1.
+## Je website
 
-**Screenshot(s):**
+<details open>
+  <summary>uitwerken voor kick-off werkgroep</summary>
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+  ### Je opdracht:
+  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.carhartt-wip.com/
 
-### Agenda voor meeting
+  #### Screenshot(s) van de eerste pagina (small screen): 
+  Homepagina  
+  <img src="/images/screenshot1.jpg" width="375px" alt="Homepagina viewport">
+  <img src="/images/screenshot2.jpg" width="375px" alt="Homepagina artikelen">
+  <img src="/images/screenshot3.jpg" width="375px" alt="Homepagina artikelen">
+  <img src="/images/screenshot4.jpg" width="375px" alt="Homepagina artikelen">
+  <img src="/images/screenshot5.jpg" width="375px" alt="Homepagina artikelen">
+  <img src="/images/screenshot6.jpg" width="375px" alt="Homepagina artikelen">  
+  <img src="/images/screenshot7.jpg" width="375px" alt="Homepagina artikelen en journal">
+  <img src="/images/screenshot8.jpg" width="375px" alt="Homepagina artikelen en journal">
+  <img src="/images/screenshot9.jpg" width="375px" alt="Homepagina artikelen en journal">
+  <img src="/images/screenshot10.jpg" width="375px" alt="Homepagina artikelen en journal">
+  <img src="/images/screenshot11.jpg" width="375px" alt="Homepagina artikelen en shop now">
+  <img src="/images/screenshot12.jpg" width="375px" alt="Homepagina footer">
 
--samen met je groepje opstellen-
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+  #### Screenshot(s) van de tweede pagina (small screen):
+  hier de naam van de pagina  
+  <img src="/images/screenshot1.1.jpg" width="375px" alt="Product pagina">
+  <img src="/images/screenshot1.2.jpg" width="375px" alt="Product pagina">
+  <img src="/images/screenshot1.3.jpg" width="375px" alt="Product pagina aanbevelingen">
+  <img src="/images/screenshot1.4.jpg" width="375px" alt="Product pagina footer">
+ 
+</details>
 
-### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+
+## Toegankelijkheidstest 1/2 (week 1)
+
+<details>
+  <summary>uitwerken na test in 1e werkgroep</summary>
+
+  ### Bevindingen
+  Lijst met je bevindingen die in de test naar voren kwamen:
+
+  #### Screenreader
+  Hier korte omschrijving (met indien nodig afbeeldingen)
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+
+
+  #### Muis en Toetsenbord 
+  Hier korte omschrijving (met indien nodig afbeeldingen)
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+
+
+  #### Motoriek (shocks, elastiekjes)
+  Hier korte omschrijving (met indien nodig afbeeldingen)
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+
+
+  #### Visueel (brillen, contrast, kleurenblind, dark/light). 
+  Hier korte omschrijving (met indien nodig afbeeldingen)
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+
+</details>
 
 
 
 ## Breakdownschets (week 1)
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
-<img src="images/b1.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/b2.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/b3.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/b4.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/b5.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/b6.png" width="375px" alt="omschrijving van de pagina">
+<details>
+  <summary>uitwerken na afloop 2e werkgroep</summary>
+
+  ### de hele pagina: 
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+
+  ### dynamisch deel (bijv menu): 
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+
+  ### wellicht nog een dynamisch deel (bijv filter): 
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+
+</details>
 
 
 
-## Intake (week 1)
--uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
-**Je startniveau:** Rood
 
-**Je focus:** Responsive
+## Voortgang 1 (week 2)
 
-**Je opdracht:** https://www.carhartt-wip.com/
+<details>
+  <summary>uitwerken voor 1e voortgang</summary>
 
-**Screenshot(s) van de eerste pagina (small screen):** 
+  ### Stand van zaken
+  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
 
-**Screenshot(s) van de tweede pagina (small screen):**
+  ### Agenda voor meeting
+  samen met je groepje opstellen
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+  | student 1      | student 2          | student 3    | student 4        |
+  | ---            | ---                | ---          | ---              |
+  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | ...            | ...                | ...          | ...              |
+
+
+  ### Verslag van meeting
+  hier na afloop snel de uitkomsten van de meeting vastleggen
+
+  - punt 1
+  - punt 2
+  - nog een punt
+  - ...
+
+</details>
+
+
+
+
+
+## Voortgang 2 (week 3)
+
+<details>
+  <summary>uitwerken voor 2e voortgang</summary>
+
+  ### Stand van zaken
+  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+
+
+  ### Agenda voor meeting
+  samen met je groepje opstellen
+
+  | student 1      | student 2          | student 3    | student 4        |
+  | ---            | ---                | ---          | ---              |
+  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | ...            | ...                | ...          | ...              |
+
+
+  ### Verslag van meeting
+  hier na afloop snel de uitkomsten van de meeting vastleggen
+
+  - punt 1
+  - punt 2
+  - nog een punt
+- ...
+
+</details>
+
+
+
+
+
+## Toegankelijkheidstest 2/2 (week 4)
+
+<details>
+  <summary>uitwerken na test in 8e werkgroep</summary>
+
+  ### Bevindingen
+  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+
+  #### Screenreader
+  Hier korte omschrijving (met indien nodig afbeeldingen)
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+
+
+  #### Muis en Toetsenbord 
+  Hier korte omschrijving (met indien nodig afbeeldingen)
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+
+
+  #### Motoriek (shocks, elastiekjes)
+  Hier korte omschrijving (met indien nodig afbeeldingen)
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+
+
+  #### Visueel (brillen, contrast, kleurenblind, dark/light). 
+  Hier korte omschrijving (met indien nodig afbeeldingen)
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+
+</details>
+
+
+
+
+
+## Voortgang 3 (week 4)
+
+<details>
+  <summary>uitwerken voor 3e voortgang</summary>
+
+  ### Stand van zaken
+  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+
+
+  ### Agenda voor meeting
+  samen met je groepje opstellen
+
+  | student 1      | student 2          | student 3    | student 4        |
+  | ---            | ---                | ---          | ---              |
+  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | ...            | ...                | ...          | ...              |
+
+
+  ### Verslag van meeting
+  hier na afloop snel de uitkomsten van de meeting vastleggen
+
+  - punt 1
+  - punt 2
+  - nog een punt
+  - ...
+
+</details>
+
+
+
+
+
+## Eindgesprek (week 5)
+
+<details>
+  <summary>uitwerken voor eindgesprek</summary>
+
+  ### Je uitkomst - karakteristiek screenshots:
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+
+
+  ### Dit ging goed/Heb ik geleerd: 
+  Korte omschrijving met plaatjes
+
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+
+
+  ### Dit was lastig/Is niet gelukt:
+  Korte omschrijving met plaatjes
+
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+</details>
+
+
+
+
+
+## Bronnenlijst
+
+<details open>
+  <summary>continu bijhouden terwijl je werkt</summary>
+
+  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
+
+  1. bron 1
+  2. bron 2
+  3. ...
+
+</details>
